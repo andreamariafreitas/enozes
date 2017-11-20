@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+JUST DO IT - [https://www.youtube.com/watch?v=ZXsQAXx_ao0]
+=======
 JUST DO IT
+<<<<<<< HEAD
+=======
+legal
+>>>>>>> 51ec3595fb4fca4eaeb9ad706e7adb79dbc6a66b
+>>>>>>> 84d97382895a9c297d3b65509a0449398029f741
