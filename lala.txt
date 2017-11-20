@@ -1,3 +1,4 @@
 enozes
 
 https://www.youtube.com/watch?v=ZXsQAXx_ao0 - Link Motivacional
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
