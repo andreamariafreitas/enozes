@@ -7,3 +7,5 @@ nossa muito motivacional...
 =======
 http://rogerdudler.github.io/git-guide/index.pt_BR.html
 >>>>>>> 4de538ffeff1d54edb5fc196b0be2894cbff50bd
+
+pasta bonita com o video motivacional
