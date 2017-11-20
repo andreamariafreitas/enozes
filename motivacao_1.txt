@@ -2,6 +2,8 @@
 JUST DO IT - [https://www.youtube.com/watch?v=ZXsQAXx_ao0]
 =======
 JUST DO IT
+<<<<<<< HEAD
+=======
 legal
 <<<<<<< HEAD
 .........
